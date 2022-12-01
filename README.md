@@ -1,8 +1,8 @@
 # Deliverable 3
 
-Full Paths:
+##Full Paths:
 
-  SQL Inserts:
+  ###SQL Inserts:
   
-  SQL Selects:
+  ###SQL Selects:
   
