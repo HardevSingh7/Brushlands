@@ -2,7 +2,7 @@
 # *Contributors:* Andrew Au, Hardev Singh, Muhammad Musarrat.
 
 
-## Full Paths:
+## Full File Paths:
 
   ### SQL Inserts:
   
